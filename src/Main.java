@@ -9,11 +9,6 @@ public class Main {
         // Alt + Enter + = Quick fix
 
         // Ctrl + Space = 자동완성 후보 리스트
-
-        int ret = getSum(10,20);
-    }
-
-    private static int getSum(int vlaue1, int value2) {
-        return vlaue1+value2;
+        System.out.println("노는게 제일 좋아~");
     }
 }
