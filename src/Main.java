@@ -6,5 +6,11 @@ public class Main {
         // sysout 이 아니라 , sout 입니다.
         // sout 탭
         System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
+        System.out.println("Hi");
     }
 }
